@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="./source/lizard.gif" width="30%" />
+</p>
+
 ![Snake animation](https://github.com/lazzzyoung/lazzzyoung/blob/output/github-contribution-grid-snake.svg)
 
 <!--
